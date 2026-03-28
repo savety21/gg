@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
           const toast = document.getElementById('download-toast');
           if (toast) toast.classList.add('visible');
 
-          window.location.href = 'https://donggangnews.com/kl/27-03-my';
+          window.location.href = 'https://donggangnews.com/kl/28-03-my';
         }, 150);
       }
     }
